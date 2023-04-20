@@ -88,5 +88,9 @@ python3 example.py
 
 # Графики
 ## Bpemb
-![accuracy](https://github.com/RapidappsIT/uaddress_deepparse/blob/master/doc/accuracy.png?raw=true)
-![loss](https://github.com/RapidappsIT/uaddress_deepparse/blob/master/doc/loss.png?raw=true)
+![accuracy_bpemb](https://github.com/RapidappsIT/uaddress_deepparse/blob/master/doc/accuracy_bpemb.png?raw=true)
+![loss_bpemb](https://github.com/RapidappsIT/uaddress_deepparse/blob/master/doc/loss_bpemb.png?raw=true)
+
+## Fasttext
+![accuracy_fasttext](https://github.com/RapidappsIT/uaddress_deepparse/blob/master/doc/accuracy_fasttext.png?raw=true)
+![loss_fasttext](https://github.com/RapidappsIT/uaddress_deepparse/blob/master/doc/loss_fasttext.png?raw=true)
